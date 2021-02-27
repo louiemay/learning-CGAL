@@ -1,5 +1,5 @@
 # learning-CGAL
-Programming practices for CGAL 4.14
+Code examples for CGAL 4.14
 ## 2D and 3D Linear Geometry Kernel
 ### [Calculate_Bbox.cpp](https://github.com/louiemay/learning-CGAL/blob/main/2D%20and%203D%20Linear%20Geometry%20Kernel/Calculate_Bbox.cpp)
 Calculate the bounding box of the objects in a range.  
