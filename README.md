@@ -11,9 +11,11 @@ Compute the output unit normal vector for vertices and faces of surface mesh. ht
 
 ## 3. Triangulated Surface Mesh Approximation
 #### [vsa_approximation_2_example.cpp](https://github.com/louiemay/learning-CGAL/blob/main/Triangulated%20Surface%20Mesh%20Approximation/vsa_approximation_2_example.cpp)
-Implements the Variational Shape Approximation method to approximate an input surface triangle mesh by a simpler surface triangle mesh.
+Implements the Variational Shape Approximation method to approximate an input surface triangle mesh by a simpler surface triangle mesh.  
+https://doc.cgal.org/4.14/Surface_mesh_approximation/index.html#Chapter_Triangulated_Surface_Mesh_Approximation
 
 ## 4. Triangulated Surface Mesh Segmentation
 #### [vsa_segmentation.cpp](https://github.com/louiemay/learning-CGAL/blob/main/Triangulated%20Surface%20Mesh%20Segmentation/vsa_segmentation.cpp)
-Generate a segmentation of a triangulated surface mesh on the strength of *Shape Diameter Function (SDF)*.
+Generate a segmentation of a triangulated surface mesh on the strength of *Shape Diameter Function (SDF)*.  
+https://doc.cgal.org/4.14/Surface_mesh_segmentation/index.html#Chapter_3D_SurfaceSegmentation
 
